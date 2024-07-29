@@ -1,2 +1,4 @@
 newsapi-python
 pandas
+requests
+numpy
